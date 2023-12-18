@@ -250,7 +250,7 @@ integer.toHexString()   2
 | boolean hasNext( )       | 判断当前位置是否有元素，有元素返回true ,没有元素返回false |
 | E next()                 | 取取当前位置的元素，并将迭代器对象移向下一个位置。        |
 
-<img src="D:\Desktop\typoraNote\images\迭代器.png" style="zoom:40%;" />
+<img src="..\images\迭代器.png" style="zoom:40%;" />
 
 ### 增强for遍历
 
